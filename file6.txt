@@ -2,7 +2,10 @@ file 6
 
 hiiiii
 
+<<<<<<< HEAD
 helloooo
 
 
 hii this is dp
+=======
+>>>>>>> parent of 71f549b... file 1 is modified
